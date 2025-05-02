@@ -1,0 +1,33 @@
+{
+  "name": "ajs-test-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build step required\"",
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatyanaShakhmina/ajs-test-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatyanaShakhmina/ajs-test-1/issues"
+  },
+  "homepage": "https://github.com/TatyanaShakhmina/ajs-test-1#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.27.1",
+    "@babel/core": "^7.27.1",
+    "@babel/preset-env": "^7.27.1",
+    "@eslint/js": "^9.25.1",
+    "eslint": "^9.25.1",
+    "globals": "^16.0.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.42.0"
+  }
+}
