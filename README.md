@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ybqum18cpp5m8fxx?svg=true)](https://ci.appveyor.com/project/TatyanaShakhmina/ajs-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/3iqskym16kiv5pj1?svg=true)](https://ci.appveyor.com/project/TatyanaShakhmina/ajs-test-3)
