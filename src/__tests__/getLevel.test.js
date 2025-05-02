@@ -1,6 +1,5 @@
 import { getLevel } from '../getLevel.js';
 import fetchData from '../http.js';
-import {jest} from "globals";
 
 jest.mock('../http.js');
 
